@@ -4,7 +4,7 @@ You can ditch your 2FA app (Google Authenticator, LastPass etc) with Termux and 
 # Before using
 - Install [Termux:API](https://wiki.termux.com/wiki/Termux:API) app from [Google Play Store](https://play.google.com/store/apps/details?id=com.termux.api&hl=en) or [f-droid](https://f-droid.org/en/packages/com.termux.api/). Both Termux and Termux:API should be downloaded from same source (either Google Play Store or f-droid). [Why?](https://wiki.termux.com/wiki/FAQ#Why_does_Termux_not_support_more_special_buttons.3F)
 - Give necessary permissions to Termux and Termux:API (i.e. Storage).
-- Install Python3: `apt install python`
+- Install package for Termux:API and Python3: `apt install termux-api python`
 - Install onetimepass: `pip install onetimepass`
 - Create a directory like this: `~/.shortcuts/tasks`
 - Copy `main.py` file to the directory.
