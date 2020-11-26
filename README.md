@@ -1,2 +1,1 @@
-# TAScripts
-Some useful scripts using Termux API
+Maybe I'll upload some scripts here ^_^
