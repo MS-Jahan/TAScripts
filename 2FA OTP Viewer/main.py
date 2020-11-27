@@ -2,7 +2,7 @@
 
 import os, json
 
-dir = "."
+dir = "." # This is the directory where all the files containing OTP tokens will be placed.
 
 def do_totp():
 	global dir
